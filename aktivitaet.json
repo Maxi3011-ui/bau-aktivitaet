@@ -2,10 +2,6 @@
  "_hinweis": "Commits pro Tag aus Maxis Projekt-Repos (ohne automatische Spiegel). Nur Zahlen.",
  "tage": [
   {
-   "d": "2026-08-11",
-   "n": 1
-  },
-  {
    "d": "2026-08-12",
    "n": 2
   },
@@ -335,9 +331,13 @@
   },
   {
    "d": "2026-11-02",
-   "n": 854
+   "n": 864
+  },
+  {
+   "d": "2026-11-03",
+   "n": 59
   }
  ],
- "gesamt": 12545,
- "letzterCommit": "2026-11-02T22:55:22+01:00"
+ "gesamt": 12613,
+ "letzterCommit": "2026-11-03T06:48:42+01:00"
 }
